@@ -12,7 +12,7 @@ Check out [API LIVE DEMO](https://tech-hive-ware-backend-1.khantaufeeq.repl.co) 
 ## How to Install
 1. Git Clone
 ```
-git clone https://github.com/KhanTaufeeq/Budget-Box.git 
+git clone https://github.com/KhanTaufeeq/Hive-Tech-Wear.git  
 ```
 2. Backend setting
 ```
