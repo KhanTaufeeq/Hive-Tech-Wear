@@ -10,10 +10,16 @@ let baseURL;
 // } else {
 // 	baseURL = REACT_APP_API_BASE_URL_DEV;
 // }
+<<<<<<< HEAD
 
 
 // baseURL = "http://127.0.0.1:8000/";
 baseURL = 'https://tech-hive-ware-backend.onrender.com/';
+=======
+// baseURL = "https://backend-hivetech-wear.herokuapp.com/";
+
+baseURL = "http://127.0.0.1:8000/";
+>>>>>>> 0654536286433fa72746126b74b945139941549a
 const api = axios.create({
   baseURL: baseURL,
   headers: {
